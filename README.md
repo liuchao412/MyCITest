@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/liuchao412/MyCITest.svg?branch=master)](https://travis-ci.org/liuchao412/MyCITest)
+[![coverity](https://scan.coverity.com/projects/14355/badge.svg)](https://scan.coverity.com/projects/liuchao412-async-or-coroutine-fastcgi)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/mit-license.php)
+[![platform](https://img.shields.io/badge/platform-linux-brightgreen.svg)](/README.md)  
+
 MyCITest
 ==================
 
