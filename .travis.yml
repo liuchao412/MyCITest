@@ -27,7 +27,7 @@ addons:
     project:
       name: "liuchao412/MyCITest"
       description: "Build submitted via Travis CI"
-    notification_email: liuchao412@foxmail.com
+    notification_email: liuchao412@foxmail.com;freeeyes@163.com
     build_command_prepend: "./configure; make clean"
     build_command:   "make -j 4"
     branch_pattern: master
